@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77683cf0.css",
+    "main.js": "/static/js/main.e856d160.js",
+    "static/media/animesh-pic.png": "/static/media/animesh-pic.ac7d958692cc400118b0.png",
+    "static/media/ani-pic.jpeg": "/static/media/ani-pic.a043fc0cc256187dddcc.jpeg",
+    "static/media/Animesh-Resume.pdf": "/static/media/Animesh-Resume.53e60f02931da77a0e55.pdf",
+    "index.html": "/index.html",
+    "main.77683cf0.css.map": "/static/css/main.77683cf0.css.map",
+    "main.e856d160.js.map": "/static/js/main.e856d160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77683cf0.css",
+    "static/js/main.e856d160.js"
+  ]
+}
